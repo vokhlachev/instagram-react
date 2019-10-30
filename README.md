@@ -9,7 +9,7 @@
 <br />
  </p>
 
-This is small project abiut building Instagram prototype, using:
+This is small project about building Instagram prototype, using:
 
 * NODE JS
 
